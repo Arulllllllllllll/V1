@@ -1,0 +1,33 @@
+{
+  "name": "Arulbot-Md",
+  "version": "0.0.0",
+  "description": "WhatsApp Bot Multi Device",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Arul",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@bochilteam/scraper": "^3.0.0",
+    "colors": "^1.4.0",  
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "clui": "^0.3.6",
+    "crypto": "^1.0.1",
+    "jimp": "^0.16.1",
+    "form-data": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "path": "^0.12.7",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "2.6.1",
+    "node-webpmux": "^3.1.1",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0",
+    "g-i-s": "^2.1.6"
+  }
+}
